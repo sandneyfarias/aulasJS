@@ -20,4 +20,4 @@ console.log(nomeCompleto[4]);
 console.log(nomeCompleto.length);
 
 // Posição do símbolo @
-console.log(email.indexOf("@"));
+console.log(email.indexOf('@'));
